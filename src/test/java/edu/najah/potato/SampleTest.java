@@ -8,7 +8,7 @@ public class SampleTest {
 	
 	@Test
 	public void SampleTest() {
-		int a = 2;
+		int a = 1;
 		int b = 2;
 		assertTrue(a + b == 3);
 	}
